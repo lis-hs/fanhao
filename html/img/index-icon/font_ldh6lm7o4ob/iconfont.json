@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "753494",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "2431801",
+      "name": "小米logo",
+      "font_class": "xiaomilogo",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "3088954",
+      "name": "三角下标（正方形）",
+      "font_class": "arrLeft-fill",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "3281409",
+      "name": "购物车图标",
+      "font_class": "gouwuchetubiao",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "11041285",
+      "name": "三角下标（正方形）",
+      "font_class": "icon-up-copy-copy",
+      "unicode": "e50b",
+      "unicode_decimal": 58635
+    }
+  ]
+}

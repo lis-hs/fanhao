@@ -1,0 +1,37 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1590755555919'); /* IE9 */
+  src: url('iconfont.eot?t=1590755555919#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPoAAsAAAAACFwAAAObAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDSAqDNIJ5ATYCJAMYCw4ABCAFhG0HcRtIB8gehXEsLKRQqbdeFUbx8Ljf67lJXorgkBRpVmXFrrqqvLFwm54zM35+bMT/vzbtE0K86tRu5krIQGlkWDJZV7mlNzut2rGvxzZAgFn5/7l3r02L43nbluMcmx51ojgOKKA9/1g0tlAf5Lv/QXcREyMunSfQaVwCar+qoQN0CjAtEHeSyIHO0isjpaFdqD1rC8RXYLSnTSo3gC/89+M/pIUOJE0GMPdslRYoufHHWXrl3EoDFAWC/ayINpGxChTifa/9GS3jq2idxWC1A6Bbu6TsdQntj9AfO36cnZvDEgN36IY2mjWCHf95UcEv7gZHbqLhpxFzafil5ZL4Fcql8GsHl8yvs8LHUldvTBdegW8ACKt+JMlCET2UyRROh6r1enrJvEcrc+SHUzHMmelcaolhM6g+G41bguj9I4a9/qp9mtht2iw5QGP3rgWoVpbvfoCip6aWWNASz67TBsPmiysvxRs7A3oPXTJ6bLkS1h90+HKPqc+LHHu25cWq55ufcqKPKHjzYZW17hE32WO2Izlub0Z78izYnOY4ne42WsRptbe1G6+MyFpGqxvRUVv91fnthVpOp21V05MMMgZpNmra8WcWBXT0x0Lievr9+/fuQc79qQEfy8PwDb5CNPLmQ4/5F+2M+RnwLeBnTNkVjfoffv44157YX0i9r3hf6WR9j6HGK9/D6DgUrD1Yfh9YCtCayIvoDADyjQoBtN6lCZul9TK/oEuS7jST83/r3/j8YfuzYa+CGZ1RDfBjNvor97VeFpjP/zcKheAnCmY2lVIEDLXkyLhBoNowsiR0wjZ+nXvQh72cI0BbQ3sscCFpMwZZu1l0wa9Co8sGVO22oNOK6s1dhihoUfTAsnUOhH43IOn1HbJ+4+iCfw+NUf+h6g8aOp3nt2eX+ZAM5QriCLKw5kWsxGOHgEzEIErbkOiycYop4qQupDilEJualNJMVSMHUvZY4JwvphEisIKC7WyVczVks2FWVvAY4knSKCFyXnKy0PdMSTy2g8EeBcIhEAuW2SIsCQ9zEGhnwtC6fBtE5GLDUUYQC94uiMJJ6p2VKknKDHS13DEL8S5PcZpPlIYgBCyBArNjVTlWxAbjGEvuHzUG4RFJRldEZXmSvVbCXHnS+Ur7W+6CTuDzaqgomlJTDKWhtFBvscA5RMNCicN2yYZFbOIUpQEJJFGQbDZPEbsWuPhRRFzmUZnPQ9UluuREHsuLiA4AAA==') format('woff2'),
+  url('iconfont.woff?t=1590755555919') format('woff'),
+  url('iconfont.ttf?t=1590755555919') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1590755555919#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 14px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bofang:before {
+  content: "\e6a4";
+}
+
+.icon-xiaomilogo:before {
+  content: "\e607";
+}
+
+.icon-arrLeft-fill:before {
+  content: "\e68f";
+}
+
+.icon-gouwuchetubiao:before {
+  content: "\e61a";
+}
+
+.icon-icon-up-copy-copy:before {
+  content: "\e50b";
+}
+

@@ -1,0 +1,41 @@
+/* 悬浮表头 */
+.xm_product-box{
+	position: relative;
+	z-index: 4;
+	background: #fff;
+	border-top: 1px solid  #E0E0E0;
+	border-bottom: 1px solid #E0E0E0;
+	box-shadow: 0 5px 5px rgba(0,0,0,.07);
+}
+.nav-bar{
+	position: relative;
+	height: 63px;
+	width: 100%;
+	margin-top: 0;
+	color: #616161;
+}
+.container{
+	width: 1240px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.h2{
+	display: block;
+	margin: 0;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 60px;
+	color: #424242;
+	float: left;
+}
+/* 悬浮表头文字 */
+.left{
+	float: left;
+	margin-left: 5px;
+	font-size: 12px;
+	margin-top: 21px;
+}
+.right{
+	float: right;
+	margin: 17px 0 0 0;
+}

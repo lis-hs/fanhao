@@ -1,0 +1,19 @@
+<?xml    version="1.0"     encoding="utf-8"?>
+<stulist>
+	<stu>
+		<uid>1001</uid>
+		<uname>liangliang</uname>
+		<age>75</age>
+	</stu>
+	<stu>
+		<uid>1002</uid>
+		<uname>dongdong</uname>
+		<age>24</age>
+	</stu>
+	<stu>
+		<uid>1003</uid>
+		<uname>xinxin</uname>
+		<age>8</age>
+	</stu>
+</stulist>
+

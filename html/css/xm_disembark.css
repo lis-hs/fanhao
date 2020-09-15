@@ -1,0 +1,218 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.bgiframe{
+	display: block;
+	z-index: 3;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	position: absolute;
+	border: 0px;
+}
+.h_pane1{
+	width: 1130px;
+	margin: 0 auto;
+}
+.h_logo{
+	width: 200px;
+	height: 98px;
+	background-image: url(../img/xm_disembark-img/mistore_logo.png);
+}
+.h_logo a{
+	display: block;
+	height: 98px;
+	text-indent: -999em;
+}
+/* banner */
+.login_banner_pane1{
+	background-image: url(../img/xm_disembark-img/disembark-banner.jpg);
+	width: 100%;
+	height: 588px;
+	position: absolute;
+	left: 0;
+	top: 98px;
+	background-position: top center;
+	background-repeat: no-repeat;
+}
+.login_banner_pane1 a{
+	display: block;
+	height: 588px;
+	text-indent: -999em;
+}
+/* 登陆栏 */
+.layout{
+	width: 410px;
+	min-width: 400px;
+	max-width: 857px;
+	min-height: 556px;
+	margin-bottom: 0;
+	margin-right: 0;
+	margin: 0 auto 20px;
+	position: relative;
+	font-size: 14px;
+	z-index: 4;
+	background-color: #fff;
+	float: right;
+}
+/* 登陆注册 */
+.wrap{
+	height: 588px;
+	padding-top:0;
+	position: relative;
+	width: 100%;
+}
+.layout_pane1{
+	padding-top: 31px;
+	width: 1130px;
+	margin: 0 auto;
+}
+/* 表单输入登陆 */
+.mainbox{
+	padding-bottom: 0;
+}
+.nav_tabs{
+	padding: 27px 0 24px;
+	text-align: center;
+	font-size: 24px;
+	color: #666;
+}
+.nav_tabs_a{
+	color: #f56600;
+}
+.line{
+	width: 1px;
+	height: 24px;
+	margin: 0 35px 0 42px;
+	border: 1px solid #e0e0e0;
+}
+/* 登陆账号 */
+.login_area{
+	width: 348px;
+	padding-bottom: 0;
+	margin: 0 auto;
+}
+.loginbox{
+	position: relative;
+}
+/* 账号 */
+.labelbox{
+	display: block;
+	margin-bottom: 14px;
+	border: 1px solid#E0E0E0;
+}
+.labelbox input{
+	width: 306px;
+	height: 22px;
+	line-height: 22px;
+	padding: 13px 16px 13px 25px;
+	display: block;
+}
+/* 密码 */
+.pwd_pane1{
+	position: relative;
+	}
+.upwd{
+	display: block;
+}
+.upwd>span{
+	color: #ff6700;
+	font-size: 14px;
+}
+/* 登陆按钮 */
+.btns_bg{
+	padding-top: 10px;
+}
+.btnadpt{
+	background-color: #ff6700;
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	display: block;
+	margin-bottom: 14px;
+	text-align: center;
+	font-size: 14px;
+	color: #fff;
+	cursor: pointer;
+}
+/* 手机短信 */
+.other_pane1{
+	margin-top: -5px;
+}
+.sms_links{
+	float: left;
+}
+.btn_gray{
+	margin-bottom: 30px;
+	background: #fff;
+	color: #FF6700;
+	border: 0 none;
+	height: auto;
+	line-height: normal;
+	margin: 0;
+}
+.n_links_area{
+	padding-top: 0;
+	color: #999;
+	text-align: center;
+	float: right;
+}
+.n_links_area a{
+	color: #999;
+	font-size: 14px;
+}
+.n_links_area span{
+	padding-left: 5px;
+}
+/* 其他登录方式 */
+.other_login_type{
+	padding-top: 143px;
+	text-align: center;
+	display: block;
+}
+.oth_type_tit{
+	border-top: 1px solid #E0E0E0;
+	padding-top: 10px;
+}
+.oth_type_txt{
+	font-size: 14px;
+	color: #B0B0B0;
+	margin: 0 auto;
+	text-align: center;
+}
+.oth_type_links{
+	padding-top: 3px;
+	text-align: center;
+}
+.icon-type{
+	margin: 0 17px;
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	border-radius: 50%;
+}
+/* 页脚 */
+.n_footer{
+	height: 80px;
+	text-align: center;
+	background: #fff;
+	margin-top: 0;
+	padding-top: 100px;
+	position: relative;
+	z-index: 4;
+}
+.nf_link_area{
+	text-align: center;
+}
+.nf_link_area li{
+	display: inline-block;
+}
+.nf_link_area a{
+	display: inline-block;
+	padding: 0 10px;
+	color: #333;
+}
+.nf_intro{
+	padding: 10px;
+}
